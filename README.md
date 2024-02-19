@@ -1,2 +1,2 @@
 # bibliotecaJava
-Um sistema de biblioteca feita no Apache NetBeans 
+Um sistema de biblioteca feito no Apache NetBeans 
