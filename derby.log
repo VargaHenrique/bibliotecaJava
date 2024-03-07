@@ -1,0 +1,20 @@
+Wed Mar 06 19:07:40 BRT 2024 : Apache Derby Servidor de Rede - 10.14.2.0 - (1828579) iniciado e pronto para aceitar conexões na porta 1527 em {3}
+----------------------------------------------------------------
+Wed Mar 06 19:07:40 BRT 2024:
+ Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instância a816c00e-018e-15ce-d462-000042ec40fc
+no diretório de banco de dados C:\Users\Username\OneDrive\Área de Trabalho\JavaBancoDados\Biblioteca\bibliotecaTeste 
+
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.8+9-LTS-211
+user.dir=C:\Program Files\Java\jdk-17\db-derby-10.14.2.0-bin
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\Username\OneDrive\Área de Trabalho\JavaBancoDados\Biblioteca
+Carregador de classe do banco de dados iniciado - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Mar 06 21:51:17 BRT 2024: Shutting down Derby engine
+----------------------------------------------------------------
+Wed Mar 06 21:51:17 BRT 2024:
+Encerrando a instância a816c00e-018e-15ce-d462-000042ec40fc
+----------------------------------------------------------------
